@@ -158,41 +158,30 @@ export class ExampleComponent { }
 ## 📸 Capturas de Pantalla
 
 ### Componentes de Botones
-![Button Component](/placeholder.svg?height=200&width=400)
+![Button Component](https://github.com/YayisTorres/componentesangular/blob/master/img/botones.png)
 *Diferentes variantes de botones: básico, elevado, outlined y text*
 
-### Componentes de Layout
-![Card Component](/placeholder.svg?height=300&width=500)
-*Tarjetas con contenido, acciones y diferentes layouts*
+### Componente de progress spinner
+![Component](https://github.com/YayisTorres/componentesangular/blob/master/img/progress%20spinner.png)
+*Cargar una pagina*
 
-### Formularios y Controles
-![Form Field Component](/placeholder.svg?height=250&width=450)
-*Campos de formulario con labels, hints y validación*
+### Componente select
+![Component select ](https://github.com/YayisTorres/componentesangular/blob/master/img/selectcom.png)
 
-![Date Picker Component](/placeholder.svg?height=400&width=350)
-*Selector de fechas con calendario desplegable*
 
-### Navegación
-![Tabs Component](/placeholder.svg?height=200&width=600)
-*Pestañas para organizar contenido en secciones*
-
-![Sidenav Component](/placeholder.svg?height=500&width=700)
-*Panel de navegación lateral con menú*
+![Component](https://github.com/YayisTorres/componentesangular/blob/master/img/select.png)
+*Selector de datos con  desplegable*
 
 ### Datos y Tablas
-![Table Component](/placeholder.svg?height=400&width=800)
+![Table Component](https://github.com/YayisTorres/componentesangular/blob/master/img/tabla.png)
 *Tabla de datos con ordenamiento y paginación*
 
-### Modales y Overlays
-![Dialog Component](/placeholder.svg?height=300&width=400)
-*Ventana modal con acciones de confirmación*
+### Lista y Menú
+![ Component list menu](https://github.com/YayisTorres/componentesangular/blob/master/img/listaymenu.png)
 
-### Procesos y Flujos
-![Stepper Component](/placeholder.svg?height=350&width=600)
-*Asistente paso a paso para procesos complejos*
 
 ### Elementos Interactivos
-![Chips Component](/placeholder.svg?height=150&width=500)
+![Chips Component](https://github.com/YayisTorres/componentesangular/blob/master/img/chips.png)
 *Chips seleccionables y removibles con diferentes estados*
 
 ## 📚 Recursos Adicionales
