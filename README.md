@@ -212,10 +212,6 @@ Este proyecto está diseñado como una referencia educativa. Si encuentras mejor
 4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## 🔗 Enlaces Útiles
 
 - [Angular Material CDK](https://material.angular.dev/cdk/categories)
@@ -223,6 +219,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - [Accessibility](https://material.angular.dev/guide/accessibility)
 
 ---
-
+## Autor
+    Guadalupe DayaniravTorres Quiroz
+    correo: torresquirozdayanira@gmail.com
+    
 **Nota**: Este proyecto utiliza Angular Material v20.1.0 y está optimizado para las últimas versiones de Angular.
 ```
